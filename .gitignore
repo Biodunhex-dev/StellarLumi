@@ -1,0 +1,27 @@
+# Rust / Soroban
+contract/target/
+*.wasm
+*.optimized.wasm
+
+# Node
+node_modules/
+dist/
+.next/
+out/
+
+# Env files (never commit secrets)
+.env
+.env.local
+backend/.env
+frontend/.env.local
+
+# Prisma generated client
+backend/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
