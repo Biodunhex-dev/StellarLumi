@@ -1,6 +1,6 @@
-# LumiFund
+# StellarLumi
 
-LumiFund is a transparent milestone-based crowdfunding protocol built on the Stellar blockchain using Soroban smart contracts. The platform enables creators, startups, developers, and community builders to raise funds securely while ensuring contributors maintain visibility and control over how funds are released.
+StellarLumi is a transparent milestone-based crowdfunding protocol built on the Stellar blockchain using Soroban smart contracts. The platform enables creators, startups, developers, and community builders to raise funds securely while ensuring contributors maintain visibility and control over how funds are released.
 
 Unlike traditional crowdfunding platforms where creators receive all funds upfront, LumiFund introduces a decentralized escrow system that releases funds only after predefined project milestones are verified and approved by contributors. This creates a more accountable and trust-driven funding ecosystem.
 
